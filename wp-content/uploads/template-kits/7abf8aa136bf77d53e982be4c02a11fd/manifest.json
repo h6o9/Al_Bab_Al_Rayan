@@ -1,0 +1,1967 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Buildlux - Construction Elementor Pro Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Main CTA",
+            "screenshot": "screenshots\/block-main-cta.jpg",
+            "source": "templates\/block-main-cta.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/template-kit\/block-main-cta\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Sidebar",
+            "screenshot": "screenshots\/block-sidebar.jpg",
+            "source": "templates\/block-sidebar.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/template-kit\/block-sidebar\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/?elementor_library=footer-2",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/template-kit\/home-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Service Details",
+            "screenshot": "screenshots\/single-service-details.jpg",
+            "source": "templates\/single-service-details.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/template-kit\/single-service-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Projects",
+            "screenshot": "screenshots\/projects.jpg",
+            "source": "templates\/projects.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/template-kit\/projects\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Project",
+            "screenshot": "screenshots\/single-project.jpg",
+            "source": "templates\/single-project.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/template-kit\/single-project\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Service Inquiry",
+            "screenshot": "screenshots\/service-inquiry.jpg",
+            "source": "templates\/service-inquiry.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/template-kit\/service-inquiry\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Clients",
+            "screenshot": "screenshots\/our-clients.jpg",
+            "source": "templates\/our-clients.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/template-kit\/our-clients\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/?elementor_library=blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Blog Posts",
+            "screenshot": "screenshots\/single-blog-posts.jpg",
+            "source": "templates\/single-blog-posts.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/?elementor_library=single-blog-posts",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/www.buildlux.oxacor.com\/?elementor_library=404-page-2",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.10.3",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.10.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "night-city-osvitchene-neon-.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/night-city-osvitchene-neon--800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-main-cta.json",
+                    "name": "Block: Main CTA"
+                },
+                {
+                    "source": "templates\/block-sidebar.json",
+                    "name": "Block: Sidebar"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service-details.json",
+                    "name": "Single Service Details"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 169570,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NZT4EPB"
+        },
+        {
+            "filename": "beautiful-living-room.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/beautiful-living-room-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-sidebar.json",
+                    "name": "Block: Sidebar"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 149457,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZG9LL4H"
+        },
+        {
+            "filename": "modern-wooden-house-with-big-windows-in-the-suburb-building-of-houses-for-the-key-cottage-or.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/modern-wooden-house-with-big-windows-in-the-suburb-building-of-houses-for-the-key-cottage-or-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-sidebar.json",
+                    "name": "Block: Sidebar"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/single-service-details.json",
+                    "name": "Single Service Details"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                }
+            ],
+            "filesize": 228194,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VJUX3H3"
+        },
+        {
+            "filename": "office-buildings-windows-glass-architecture-facade-design-with-reflection.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/office-buildings-windows-glass-architecture-facade-design-with-reflection-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-sidebar.json",
+                    "name": "Block: Sidebar"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 183366,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-R23KLU8"
+        },
+        {
+            "filename": "hamburg-city-in-germany.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/hamburg-city-in-germany-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-sidebar.json",
+                    "name": "Block: Sidebar"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/single-service-details.json",
+                    "name": "Single Service Details"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/our-clients.json",
+                    "name": "Our Clients"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 196284,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q77PH37"
+        },
+        {
+            "filename": "aerial-view-of-a-building.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/aerial-view-of-a-building-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-sidebar.json",
+                    "name": "Block: Sidebar"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service-details.json",
+                    "name": "Single Service Details"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 115207,
+            "dimensions": [
+                2000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XD3RUHM"
+        },
+        {
+            "filename": "clear-and-yellow-glass-ceiling-of-the-building.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/clear-and-yellow-glass-ceiling-of-the-building-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 198899,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-3E82WR8"
+        },
+        {
+            "filename": "outside-view-of-a-red-colored.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/outside-view-of-a-red-colored-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 155762,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-M3A6LGG"
+        },
+        {
+            "filename": "closeup-detail-view-from-louvre-pyramid-during-twilight-with-amazin-illumination-.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/closeup-detail-view-from-louvre-pyramid-during-twilight-with-amazin-illumination--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 222983,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-SQ9DKGE"
+        },
+        {
+            "filename": "modern-office-building-with-windows.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/modern-office-building-with-windows-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service-details.json",
+                    "name": "Single Service Details"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                }
+            ],
+            "filesize": 146600,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9H9JBT8"
+        },
+        {
+            "filename": "office-buildings-windows-glass-architecture-facade-design-with-reflection-1.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/office-buildings-windows-glass-architecture-facade-design-with-reflection-1-800x529.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 173011,
+            "dimensions": [
+                2000,
+                1322
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-C2LENB9"
+        },
+        {
+            "filename": "close-up-of-male-architect-hands-measuring-and-making-model-house-on-the-desk-at-sunset-.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/close-up-of-male-architect-hands-measuring-and-making-model-house-on-the-desk-at-sunset--800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service-details.json",
+                    "name": "Single Service Details"
+                }
+            ],
+            "filesize": 65444,
+            "dimensions": [
+                2000,
+                1331
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FCQNPLM"
+        },
+        {
+            "filename": "rooftops.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/rooftops-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 212146,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9XYWJL2"
+        },
+        {
+            "filename": "Buildlux-Main-Logo.png",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/Buildlux-Main-Logo.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3937,
+            "dimensions": [
+                323,
+                320
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "facade-of-a-precast-apartment-building.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/facade-of-a-precast-apartment-building-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/service-inquiry.json",
+                    "name": "Service Inquiry"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 232263,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-7B3WPJW"
+        },
+        {
+            "filename": "happy-builders-in-reflective-vest-and-hard-hat-pointing-at-building-house.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/happy-builders-in-reflective-vest-and-hard-hat-pointing-at-building-house-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 150751,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7TDMQPD"
+        },
+        {
+            "filename": "Buildlux-Pattern.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/Buildlux-Pattern.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/our-clients.json",
+                    "name": "Our Clients"
+                }
+            ],
+            "filesize": 16347,
+            "dimensions": [
+                280,
+                280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/decorative-backgrounds-wood-MQ22M4H"
+        },
+        {
+            "filename": "downtown-urban-city-in-japan.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/downtown-urban-city-in-japan-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 165579,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-GFGCACM"
+        },
+        {
+            "filename": "overpass.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/overpass-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 130530,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTBEAGQ"
+        },
+        {
+            "filename": "roof-textures-under-the-sunlight-at-daytime-in-zagreb-in-croatia.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/roof-textures-under-the-sunlight-at-daytime-in-zagreb-in-croatia-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 232453,
+            "dimensions": [
+                2000,
+                1334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MSE2YGB"
+        },
+        {
+            "filename": "businessman-enterprize-urban-occupation-man-concept.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/businessman-enterprize-urban-occupation-man-concept-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 76191,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P4SBKBH"
+        },
+        {
+            "filename": "Logo-4.png",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/Logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-clients.json",
+                    "name": "Our Clients"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 1410,
+            "dimensions": [
+                277,
+                101
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "Logo-6.png",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/Logo-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-clients.json",
+                    "name": "Our Clients"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 1539,
+            "dimensions": [
+                267,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "Logo-16.png",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/Logo-16.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-clients.json",
+                    "name": "Our Clients"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 1420,
+            "dimensions": [
+                242,
+                65
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "Logo-17.png",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/Logo-17.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-clients.json",
+                    "name": "Our Clients"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 895,
+            "dimensions": [
+                169,
+                55
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "Logo-8.png",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/Logo-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-clients.json",
+                    "name": "Our Clients"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 778,
+            "dimensions": [
+                207,
+                46
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "Logo-7.png",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/Logo-7.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-clients.json",
+                    "name": "Our Clients"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 1178,
+            "dimensions": [
+                292,
+                84
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "modern-residential-building.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/modern-residential-building-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service-details.json",
+                    "name": "Single Service Details"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 152505,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-LSPA396"
+        },
+        {
+            "filename": "handsome-smiling-builders-looking-at-construction-plan.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/handsome-smiling-builders-looking-at-construction-plan-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 151089,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DGGELQG"
+        },
+        {
+            "filename": "sunlit-room-in-contemporary-house.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/sunlit-room-in-contemporary-house-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                }
+            ],
+            "filesize": 154251,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XS4BKS3"
+        },
+        {
+            "filename": "Buildlux-Pattern-3.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/Buildlux-Pattern-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 15784,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/decorative-backgrounds-wood-MQ22M4H"
+        },
+        {
+            "filename": "mature-man-construction-worker-at-the-construction-site-in-the-c.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/mature-man-construction-worker-at-the-construction-site-in-the-c-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 68665,
+            "dimensions": [
+                1335,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FTLJFW5"
+        },
+        {
+            "filename": "senior-man-engineer-or-construction-worker-in-hardhat-standing-with-blueprints-at-masonry-brick-wall.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/senior-man-engineer-or-construction-worker-in-hardhat-standing-with-blueprints-at-masonry-brick-wall-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 112738,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FJ7YGLY"
+        },
+        {
+            "filename": "engineer-builder-woman-in-uniform-1.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/engineer-builder-woman-in-uniform-1-800x1202.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 78927,
+            "dimensions": [
+                1331,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CNTSLE8"
+        },
+        {
+            "filename": "bearded-man-in-a-helmet-holding-blueprints.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/bearded-man-in-a-helmet-holding-blueprints-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 86965,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QUT3BDB"
+        },
+        {
+            "filename": "head-engineer-showing-thumbs-up.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/head-engineer-showing-thumbs-up-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 99849,
+            "dimensions": [
+                1335,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PN49DCP"
+        },
+        {
+            "filename": "female-factory-foreman.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/female-factory-foreman-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 109714,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9K4S3UM"
+        },
+        {
+            "filename": "foreman-or-worker-work-at-factory-site-check-up-machine-or-products-in-site-.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/foreman-or-worker-work-at-factory-site-check-up-machine-or-products-in-site--800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 88837,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DL8K3GD"
+        },
+        {
+            "filename": "portrait-of-shipping-worker-in-mask.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/portrait-of-shipping-worker-in-mask-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 102971,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RELBVXD"
+        },
+        {
+            "filename": "canal-in-the-speicherstadt-at-night.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/canal-in-the-speicherstadt-at-night-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 210330,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P439S6D"
+        },
+        {
+            "filename": "bridge-building.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/bridge-building-800x530.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 176107,
+            "dimensions": [
+                2000,
+                1325
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QZ9HDTD"
+        },
+        {
+            "filename": "50087-kitchen-in-suburban-home.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/50087-kitchen-in-suburban-home-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                }
+            ],
+            "filesize": 119902,
+            "dimensions": [
+                2000,
+                1332
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DT8L723"
+        },
+        {
+            "filename": "closeup-of-attic-windows-on-house-roof-top-covered-with-ceramic-shingles-tiled-covering-of-building-e1675333484231.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/closeup-of-attic-windows-on-house-roof-top-covered-with-ceramic-shingles-tiled-covering-of-building-e1675333484231-800x556.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                }
+            ],
+            "filesize": 238602,
+            "dimensions": [
+                1920,
+                1334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PDDVRCL"
+        },
+        {
+            "filename": "Logo-22.png",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/Logo-22.png",
+            "templates": [
+                {
+                    "source": "templates\/our-clients.json",
+                    "name": "Our Clients"
+                }
+            ],
+            "filesize": 1255,
+            "dimensions": [
+                270,
+                90
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "Logo-20.png",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/Logo-20.png",
+            "templates": [
+                {
+                    "source": "templates\/our-clients.json",
+                    "name": "Our Clients"
+                }
+            ],
+            "filesize": 676,
+            "dimensions": [
+                231,
+                46
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "Logo-23.png",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/Logo-23.png",
+            "templates": [
+                {
+                    "source": "templates\/our-clients.json",
+                    "name": "Our Clients"
+                }
+            ],
+            "filesize": 1189,
+            "dimensions": [
+                234,
+                74
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "Logo-28.png",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/Logo-28.png",
+            "templates": [
+                {
+                    "source": "templates\/our-clients.json",
+                    "name": "Our Clients"
+                }
+            ],
+            "filesize": 1654,
+            "dimensions": [
+                231,
+                95
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "Logo-2.png",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/Logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/our-clients.json",
+                    "name": "Our Clients"
+                }
+            ],
+            "filesize": 1177,
+            "dimensions": [
+                206,
+                95
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "Logo-10.png",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/Logo-10.png",
+            "templates": [
+                {
+                    "source": "templates\/our-clients.json",
+                    "name": "Our Clients"
+                }
+            ],
+            "filesize": 1066,
+            "dimensions": [
+                244,
+                91
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "Logo-29.png",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/Logo-29.png",
+            "templates": [
+                {
+                    "source": "templates\/our-clients.json",
+                    "name": "Our Clients"
+                }
+            ],
+            "filesize": 1017,
+            "dimensions": [
+                230,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "Logo-30.png",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/Logo-30.png",
+            "templates": [
+                {
+                    "source": "templates\/our-clients.json",
+                    "name": "Our Clients"
+                }
+            ],
+            "filesize": 902,
+            "dimensions": [
+                237,
+                71
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "Logo-15-1.png",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/Logo-15-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-clients.json",
+                    "name": "Our Clients"
+                }
+            ],
+            "filesize": 1093,
+            "dimensions": [
+                269,
+                99
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "Logo-13.png",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/Logo-13.png",
+            "templates": [
+                {
+                    "source": "templates\/our-clients.json",
+                    "name": "Our Clients"
+                }
+            ],
+            "filesize": 1265,
+            "dimensions": [
+                205,
+                81
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "modern-builders.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/modern-builders-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 94985,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RWGBHA7"
+        },
+        {
+            "filename": "worker-in-reflective-vest-and-hardhat-standing-at-construction-site-in-front-of-big-yellow-truck-and.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/worker-in-reflective-vest-and-hardhat-standing-at-construction-site-in-front-of-big-yellow-truck-and-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 100400,
+            "dimensions": [
+                1335,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E5HGLGM"
+        },
+        {
+            "filename": "graslei-street-and-canal-in-the-evening-ghent-belgium.jpg",
+            "thumbnail_url": "https:\/\/www.buildlux.oxacor.com\/wp-content\/uploads\/graslei-street-and-canal-in-the-evening-ghent-belgium-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 218364,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5JD6G4"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+.wrapper > * {
+  margin: 0 10px 5px 0;
+}
+[dir=rtl] .wrapper > * {
+  margin: 0 0 5px 10px;
+}/*# sourceMappingURL=ButtonWrapper.module.css.map */
